@@ -202,7 +202,7 @@ footer p {
 .resume-button {
     background-color: white; /* Button color */
     color: #000; /* Text color */
-    padding: 10px 20px; /* Add some padding */
+    padding: 10px 10px; /* Add some padding */
     text-decoration: none; /* Remove underline */
     border: 2px solid #000; /* Border for the button */
     border-radius: 5px; /* Rounded corners */
