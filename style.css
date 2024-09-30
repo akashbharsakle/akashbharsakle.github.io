@@ -65,8 +65,8 @@ body {
     padding: 20px;
 }
 
-.hero-section h1 {
-    font-size: 3.5rem;
+h1 {
+    font-size: 3rem;
     margin-bottom: 15px;
     text-color: white;
 }
