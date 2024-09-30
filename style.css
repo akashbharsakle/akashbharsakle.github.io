@@ -191,3 +191,26 @@ footer {
 footer p {
     margin: 0;
 }
+
+
+/*resume button*/
+.resume-link {
+    text-align: center; /* Center the button */
+    margin-top: 20px; /* Add some space above the button */
+}
+
+.resume-button {
+    background-color: white; /* Button color */
+    color: #000; /* Text color */
+    padding: 10px 20px; /* Add some padding */
+    text-decoration: none; /* Remove underline */
+    border: 2px solid #000; /* Border for the button */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s, color 0.3s; /* Transition effect */
+}
+
+.resume-button:hover {
+    background-color: #000; /* Change background on hover */
+    color: white; /* Change text color on hover */
+}
+
